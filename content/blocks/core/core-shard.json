@@ -1,5 +1,5 @@
 {
-	"name": "Core: Fragment",
+	"name": "Core: Shard",
 	"description": "Allows building a tiny core to the front lines, acts like any other core, allows unloaders and storage containers to be used, however, its very expensive, and is highly fragile.",
 	"type": "CoreBlock",
 	"itemCapacity": 500,
