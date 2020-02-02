@@ -1,0 +1,28 @@
+{
+	"name": "Mega overdrive",
+	"description": "More Lasers",
+	"type": "OverdriveProjector",
+	"size": 2,
+	"tier": 4,
+	"reload": 6,
+	"range": 200,
+	"speedBoost": 3,
+	"liquidBoostIntensity": 5,
+	"consumes": {
+		"power": 3.7,
+		"liquid": {
+			"liquid": "water", 
+			"amount": 0.3,
+			"booster": true,
+			"optional": true
+		}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 400 },
+		{ "item": "titanium", "amount": 200 },
+		{ "item": "silicon", "amount": 300 },
+		{ "item": "thorium", "amount": 200 }
+	],
+	"category": "defense",
+	"research": "blast-drill"
+}

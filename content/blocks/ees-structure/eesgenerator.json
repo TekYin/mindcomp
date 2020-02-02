@@ -1,0 +1,14 @@
+{
+	"type": "SolarGenerator",
+	"name": "EES Generator",
+	"description": "Produces infinite Power.",
+	"size": 1,
+	"hasPower": true,
+	"itemDuration": 1000000000000000000,
+	"powerProduction": 100000000000,
+	"requirements": [
+		{ "item": "copper", "amount": 1 }
+	],
+	"category": "power",
+	"research": "power-node"
+}

@@ -1,0 +1,26 @@
+{
+	"name": "Mega Drill",
+	"description": "More Lasers",
+	"type": "Drill",
+	"size": 4,
+	"tier": 10,
+	"drillTime": 60,
+	"liquidBoostIntensity": 5,
+	"consumes": {
+		"power": 3.7,
+		"liquid": {
+			"liquid": "water", 
+			"amount": 0.3,
+			"booster": true,
+			"optional": true
+		}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 435 },
+		{ "item": "titanium", "amount": 225 },
+		{ "item": "silicon", "amount": 300 },
+		{ "item": "thorium", "amount": 200 }
+	],
+	"category": "production",
+	"research": "blast-drill"
+}

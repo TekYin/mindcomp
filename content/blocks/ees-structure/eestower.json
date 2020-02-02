@@ -1,0 +1,13 @@
+{
+	"name": "EES Node Tower",
+	"description": "A tower with insane range and connection limits.",
+	"type": "PowerNode",
+	"size": 1,
+	"maxNodes": 500,
+	"laserRange": 100,
+	"requirements": [
+		{ "item": "copper", "amount": 1 }
+	],
+	"category": "power",
+	"research": "power-node"
+}
