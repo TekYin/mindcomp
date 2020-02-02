@@ -1,0 +1,18 @@
+{
+	"name": "Core: Fragment",
+	"description": "Allows building a tiny core to the front lines, acts like any other core, allows unloaders and storage containers to be used, however, its very expensive, and is highly fragile.",
+	"type": "CoreBlock",
+	"itemCapacity": 1000,
+	"hasItems": true,
+	"unloadable": true,
+	"breakable": true,
+	"health": 4000,
+	"size": 2,
+	"requirements": [
+		{ "item": "silicon", "amount": 1200 },
+		{ "item": "plastanium", "amount": 600 },
+		{ "item": "metaglass", "amount": 400 }
+	],
+	"category": "effect",
+	"research": "vault"
+}
