@@ -9,9 +9,7 @@
 	"health": 2000,
 	"size": 1,
 	"requirements": [
-		{ "item": "silicon", "amount": 300 },
-		{ "item": "plastanium", "amount": 150 },
-		{ "item": "metaglass", "amount": 100 }
+		{ "item": "copper", "amount": 1 }
 	],
 	"category": "effect",
 	"research": "vault"
