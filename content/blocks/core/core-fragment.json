@@ -12,5 +12,5 @@
 		{ "item": "copper", "amount": 2 }
 	],
 	"category": "effect",
-	"research": "vault"
+	"research": "router"
 }
