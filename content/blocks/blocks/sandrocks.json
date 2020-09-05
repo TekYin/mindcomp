@@ -1,0 +1,6 @@
+{
+  "breakable": "true",
+  "requirements": [],
+  "category": "defense",
+  "buildVisibility": "sandboxOnly"
+}
