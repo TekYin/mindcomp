@@ -1,6 +1,6 @@
 {
   "breakable": "true",
-  "requirements": [],
-  "category": "defense",
-  "buildVisibility": "sandboxOnly"
+  "buildVisibility": "sandboxOnly",
+  "requirements": [{ "item": "copper", "amount": 1 }],
+  "category": "defense"
 }
