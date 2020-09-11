@@ -1,0 +1,12 @@
+type: Router
+name: R. Router
+description: A router reinforced with titanium. Functions the same.
+health: 150
+requirements: [
+  copper/4
+  lead/4
+  titanium/4
+]
+category: distribution
+research: router
+size: 3

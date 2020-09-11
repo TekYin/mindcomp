@@ -1,0 +1,12 @@
+type: Router
+name: T. Router
+description: A router reinforced with thorium. Functions the same.
+health: 250
+requirements: [
+  lead/4
+  titanium/4
+  thorium/4
+]
+category: distribution
+research: router
+size: 4
