@@ -3,3 +3,4 @@ displayName: Tek Yin Mods compilation
 author: TekYin
 description: "Mods compilation."
 version: "1.0"
+minGameVersion: "105"
