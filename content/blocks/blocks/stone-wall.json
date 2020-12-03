@@ -1,0 +1,5 @@
+{
+  "breakable": "true",
+  "requirements": [{ "item": "copper", "amount": 1 }],
+  "category": "defense"
+}
