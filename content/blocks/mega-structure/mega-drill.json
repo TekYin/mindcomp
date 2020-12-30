@@ -7,10 +7,10 @@
 	"drillTime": 60,
 	"liquidBoostIntensity": 5,
 	"consumes": {
-		"power": 3.7,
+		"power": 5,
 		"liquid": {
 			"liquid": "water", 
-			"amount": 0.3,
+			"amount": 0.2,
 			"booster": true,
 			"optional": true
 		}
