@@ -2,14 +2,15 @@
 	"name": "Super Drill",
 	"description": "An insanely effective drill which requires almost no power.",
 	"type": "Drill",
-	"size": 1,
+	"size": 2,
 	"tier": 10,
 	"drillTime": 0.05,
+	"liquidBoostIntensity": 5,
 	"consumes": {
 		"power": 0.01,
 		"liquid": {
-			"liquid": "cryofluid", 
-			"amount": 0.001,
+			"liquid": "water", 
+			"amount": 0.2,
 			"booster": true,
 			"optional": true
 		}
