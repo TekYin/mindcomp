@@ -1,0 +1,11 @@
+type: Conveyor
+name: Thorium Conveyor
+description: A decently fast conveyor made of thorium.
+health: 125
+requirements: [
+  thorium/3
+  titanium/2
+]
+category: distribution
+speed: 0.12
+research: titanium-conveyor

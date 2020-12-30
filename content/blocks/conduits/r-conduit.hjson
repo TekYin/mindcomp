@@ -1,0 +1,12 @@
+type: ArmoredConduit
+name: R. Pulse Conduit
+description: "A reinforced conduit, functions like the Armored Conveyor."
+health: 100
+requirements: [
+  metaglass/2
+  copper/2
+  lead/1
+]
+liquidCapacity: 10
+category: liquid
+research: conduit

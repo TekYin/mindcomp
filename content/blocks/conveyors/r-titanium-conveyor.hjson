@@ -1,0 +1,12 @@
+type: ArmoredConveyor
+name: R. Titanium Conveyor
+description: More expensive, but double the health of a regular titanium conveyor. Functions like the armored conveyor.
+health: 130
+requirements: [
+  copper/2
+  lead/2
+  titanium/2
+]
+category: distribution
+speed: 0.08
+research: titanium-conveyor

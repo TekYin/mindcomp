@@ -1,0 +1,11 @@
+type: ArmoredConveyor
+name: R. Surge Conveyor
+description: Not only does it have 3x the health of a regular surge conveyor, but Yoda promotes it! Very good, it is. Functions like the armored conveyor.
+health: 1500
+requirements: [
+  phase-fabric/3
+  surge-alloy/2
+]
+category: distribution
+speed: 0.2
+research: surge-conveyor

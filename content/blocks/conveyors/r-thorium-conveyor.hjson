@@ -1,0 +1,13 @@
+type: ArmoredConveyor
+name: R. Thorium Conveyor
+description: Just like a Thorium Conveyor, but 2.5x stronger. Functions like the armored conveyor.
+health: 315
+requirements: [
+  thorium/4
+  titanium/3
+  copper/2
+  lead/2
+]
+category: distribution
+speed: 0.12
+research: thorium-conveyor

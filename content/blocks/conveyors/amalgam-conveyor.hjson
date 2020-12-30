@@ -1,0 +1,19 @@
+type: Conveyor
+name: Amalgam Conveyor
+description: The ultimate conveyor! So fast it can literally beat a mass driver in a race!
+health: 3000
+requirements: [
+  copper/10
+  lead/10
+  titanium/8
+  thorium/7
+  plastanium/4
+  metaglass/6
+  graphite/6
+  silicon/6
+  phase-fabric/3
+  surge-alloy/3
+]
+category: distribution
+speed: 0.8
+research: surge-conveyor

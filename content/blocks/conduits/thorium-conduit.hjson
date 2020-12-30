@@ -1,0 +1,12 @@
+type: Conduit
+name: Thorium Conduit
+description: "A conduit which notably higher liquid pressure and capacity."
+health: 125
+requirements: [
+  metaglass/2
+  thorium/2
+]
+liquidCapacity: 25
+liquidPressure: 1.05
+category: liquid
+research: pulse-conduit
