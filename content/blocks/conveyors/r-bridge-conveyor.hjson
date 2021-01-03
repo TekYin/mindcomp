@@ -1,0 +1,13 @@
+type: ItemBridge
+name: R. Bridge Conveyor
+description: A bridge conveyor reinforced with titanium. Extends up to 10 blocks.
+health: 150
+requirements: [
+  copper/4
+  lead/4
+  titanium/4
+]
+range: 10
+hasPower: false
+category: distribution
+research: bridge-conveyor
