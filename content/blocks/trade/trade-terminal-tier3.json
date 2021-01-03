@@ -16,7 +16,7 @@
             "optional": false
         }
     },
-    "itemCapacity":10,
+    "itemCapacity":20,
     "requirements":[
         { "item": "titanium", "amount": 1000 }
     ],
