@@ -1,0 +1,12 @@
+type: StackConveyor
+name: Super Stack Conveyor
+description: A stack conveyor with higher speed.
+health: 125
+requirements: [
+  thorium/3
+  titanium/2
+]
+itemCapacity: 20
+category: distribution
+speed: 0.12
+research: plastanium-conveyor
