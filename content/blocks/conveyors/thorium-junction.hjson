@@ -1,0 +1,12 @@
+type: Junction
+name: Thorium Junction
+description: A decently fast junction made of thorium.
+health: 125
+requirements: [
+  thorium/3
+  titanium/2
+]
+capacity: 12
+category: distribution
+speed: 52
+research: junction
