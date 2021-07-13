@@ -4,7 +4,7 @@
 	"type": "PowerNode",
 	"size": 1,
 	"maxNodes": 500,
-	"laserRange": 100,
+	"laserRange": 20,
 	"requirements": [
 		{ "item": "copper", "amount": 1 }
 	],
