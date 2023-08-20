@@ -1,0 +1,16 @@
+{
+  "type": "SolarGenerator",
+  "name": "Beryllium solar panel",
+  "description": "Provides a small amount of power from the sun. More efficient than the standard solar panel.",
+  "size": 3,
+  "health": 10,
+  "hasShadow": true,
+  "powerProduction": 8.334,
+  "requirements": [
+    { "item": "silicon", "amount": 250 },
+    { "item": "beryllium", "amount": 150 },
+    { "item": "tungsten", "amount": 150 }
+  ],
+  "category": "power",
+  "research": "solar_panel_erekir"
+}

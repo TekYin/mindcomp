@@ -1,0 +1,15 @@
+{
+  "type": "SolarGenerator",
+  "name": "Solar panel",
+  "description": "Provides a small amount of power from the sun.",
+  "size": 2,
+  "health": 5,
+  "hasShadow": true,
+  "powerProduction": 1.668,
+  "requirements": [
+    { "item": "silicon", "amount": 50 },
+    { "item": "beryllium", "amount": 25 }
+  ],
+  "category": "power",
+  "research": "beam-node"
+}
