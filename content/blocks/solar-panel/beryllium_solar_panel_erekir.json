@@ -5,7 +5,7 @@
   "size": 3,
   "health": 10,
   "hasShadow": true,
-  "powerProduction": 41.67,
+  "powerProduction": 416.7,
   "requirements": [
     { "item": "silicon", "amount": 250 },
     { "item": "beryllium", "amount": 150 },
