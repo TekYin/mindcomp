@@ -1,0 +1,23 @@
+type: radar
+name: Rubidium radar
+outlineColor: 4a4b53
+fogRadius: 70
+envEnabled: 17
+envDisabled: 0
+consumes:{
+    power: 3
+}
+requirements: [
+    silicon/90
+    graphite/70
+    tungsten/40
+]
+category: effect
+buildVisibility: fogOnly
+research:{
+    parent: radar
+    requirements: [
+silicon/90
+graphite/70
+]
+}
