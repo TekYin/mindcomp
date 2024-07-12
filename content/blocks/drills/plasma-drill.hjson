@@ -2,7 +2,7 @@ type: BeamDrill
 name: Plasma Drill
 description: Faster than the plasma bore
 tier: 5
-drillTime: 70
+drillTime: 20
 size: 2
 range: 8
 hasPower: true
@@ -25,7 +25,6 @@ consumes: {
 category: production
 requirements: [
   graphite/45
-  silicon/30
   beryllium/65
 ]
 research: plasma-bore

@@ -1,0 +1,67 @@
+{
+	"name": "Cataclysmic Drill",
+	"description": "A revised version of the Eruption drill. Requires Ozone.",
+	"type": "BurstDrill",
+	"size": 6,
+	"tier": 9,
+    "squareSprite": false,
+    "hasPower": true,
+    "hasLiquid": true,
+	"drillTime": 20,
+    "shake": 8,
+    "itemCapacity": 160,
+    "liquidCapacity": 40,
+    "arrowOffset": 0,
+    "arrowSpacing": 3,
+    "arrows": 4,
+    "drillMultipliers": {
+        "beryllium": 2.5
+    },
+    "drillEffect": [
+        {
+            "type": "WrapEffect",
+            "effect": "dynamicSpikes",
+            "color": "fc81dd",
+            "rotation": 50
+        },
+        {
+            "type": "WrapEffect",
+            "effect": "mineImpactWave",
+            "color": "fc81dd",
+            "rotation": 55
+        },
+        {
+            "type": "WrapEffect",
+            "effect": "shieldBreak",
+            "color": "fc81dd",
+            "rotation": 50
+        },
+        {
+            "type": "WrapEffect",
+            "effect": "colorTrail",
+            "color": "fc81dd",
+            "rotation": 10
+        },
+        {
+            "type": "WrapEffect",
+            "effect": "colorTrail",
+            "color": "ffffff",
+            "rotation": 7
+        }
+    ],
+	"consumes": {
+		"power": 9.0,
+        "liquids": [
+            {
+                "liquid": "water",
+                "amount": "0.3"
+            }
+        ]
+	},
+	"requirements": [
+		{ "item": "silicon", "amount": 100 },
+        { "item": "beryllium", "amount": 200 }
+	],
+	"category": "production",
+	"research": "eruption-drill"
+}

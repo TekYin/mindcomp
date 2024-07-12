@@ -2,7 +2,7 @@ type: BeamDrill
 name: Large Plasma Drill
 description: Faster than the large plasma bore
 tier: 5
-drillTime: 50
+drillTime: 30
 size: 3
 range: 8
 hasPower: true
@@ -27,6 +27,5 @@ requirements: [
   graphite/75
   beryllium/155
   silicon/120
-  tungsten/170
 ]
 research: large-plasma-bore
