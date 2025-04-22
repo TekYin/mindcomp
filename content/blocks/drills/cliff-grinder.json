@@ -5,21 +5,16 @@
   "size": 2,
   "category": "production",
   "research": "cliff-crusher",
-  "requirements": [
-    "graphite/40",
-    "beryllium/35"
-  ],
-  "drillTime": 20,
+  "requirements": ["graphite/40", "beryllium/35"],
+  "drillTime": 10,
   "attribute": "sand",
   "output": "sand",
   "fogRadius": 2,
-  "researchCost": [
-    "beryllium/160",
-    "graphite/80"
-  ],
+  "researchCost": ["beryllium/160", "graphite/80"],
   "consumes": {
     "power": 0.2
   },
   "ambientSound": "drill",
-  "ambientSoundVolume": 0.06
+  "ambientSoundVolume": 0.06,
+  "itemCapacity": 100
 }

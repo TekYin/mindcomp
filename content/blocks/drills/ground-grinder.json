@@ -19,7 +19,7 @@
     "sizeTo": 0
   },
   "consumes": {
-    "power": 1,
+    "power": 1
   },
   "requirements": [
     {

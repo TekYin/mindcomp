@@ -1,5 +1,5 @@
 {
-  "type": "SolarGenerator",
+  "type": "ConsumeGenerator",
   "name": "Beryllium solar panel",
   "description": "Provides a small amount of power from the sun. More efficient than the standard solar panel.",
   "size": 3,
@@ -11,6 +11,9 @@
     { "item": "beryllium", "amount": 150 },
     { "item": "tungsten", "amount": 150 }
   ],
+  "consumes": {
+    "items": [{ "item": "beryllium", "amount": 1 }]
+  },
   "category": "power",
   "research": "solar_panel_erekir"
 }

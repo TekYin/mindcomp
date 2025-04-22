@@ -1,7 +1,7 @@
 type: radar
 name: Rubidium radar
 outlineColor: 4a4b53
-fogRadius: 70
+fogRadius: 200
 envEnabled: 17
 envDisabled: 0
 consumes:{

@@ -1,0 +1,16 @@
+type: BuildTurret
+name: Build Tower
+consumes:{
+    power: 3
+}
+requirements: [
+    silicon/90
+    graphite/70
+]
+category: effect
+range: 2000
+rotateSpeed: 50
+health: 1840
+size: 1
+research: beam-node
+buildSpeed: 5

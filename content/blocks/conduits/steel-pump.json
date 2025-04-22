@@ -1,0 +1,38 @@
+{
+  "type": "Pump",
+  "name": "Steel Pump",
+  "description": "A pump made using living steel that uses power to pump great amounts of liquid.",
+  "hasPower": true,
+  "hasLiquids": true,
+  "liquidCapacity": 100,
+  "size": 3,
+  "consumes": {
+    "power": 1.6
+  },
+  "pumpAmount": 1,
+  "category": "liquid",
+  "research": "beam-node",
+  "requirements": ["silicon/90", "graphite/70", "tungsten/40"],
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawRegion",
+        "suffix": "-bottom"
+      },
+      {
+        "type": "DrawLiquidRegion",
+        "drawLiquid": "water"
+      },
+      {
+        "type": "DrawBlurSpin",
+        "suffix": "-rotator",
+        "rotateSpeed": 1.2
+      },
+      {
+        "type": "DrawDefault"
+      }
+    ]
+  },
+  "squareSprite": false
+}

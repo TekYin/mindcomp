@@ -16,10 +16,10 @@
     "colorTo": "d3ae8d",
     "lifetime": 45,
     "sizeFrom": 12,
-    "sizeTo": 0,
+    "sizeTo": 0
   },
   "consumes": {
-    "power": 6,
+    "power": 6
   },
   "requirements": [
     {
