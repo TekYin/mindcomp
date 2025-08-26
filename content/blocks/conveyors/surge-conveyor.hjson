@@ -3,8 +3,8 @@ name: Surge Conveyor
 description: Made of phase fabric and surge alloy, this conveyor is extremely fast
 health: 500
 requirements: [
-  phase-fabric/1
-  surge-alloy/1
+  tungsten/2
+  surge-alloy/2
 ]
 category: distribution
 speed: 0.2
